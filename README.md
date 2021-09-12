@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yunge Yu</h1>
 <h3 align="center">Student at the University of Auckland</h3>
 
+- 🔭 I’m currently working on **a project involving wxpython, React Native, and socket programming.**
+
 - 👨‍💻 All of my projects are available at [yungeyu.me](https://yungeyu.me/#projects)
 
 - 📫 How to reach me **contact@yungeyu.me** or [yungeyu.me](https://yungeyu.me/#contact)
