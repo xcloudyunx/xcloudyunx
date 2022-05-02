@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a project involving wxpython, React Native, and socket programming.**
 
-- 👨‍💻 All of my projects are available at [yungeyu.me](https://yungeyu.me/#projects)
+- 👨‍💻 All of my projects are available at [yungeyu.me](https://yungeyu.com/#projects)
 
-- 📫 How to reach me **contact@yungeyu.me** or [yungeyu.me](https://yungeyu.me/#contact)
+- 📫 How to reach me **contact@yungeyu.com** or [yungeyu.me](https://yungeyu.com/#contact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
